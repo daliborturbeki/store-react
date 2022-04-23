@@ -1,0 +1,13 @@
+.products h2 {
+    color: white;
+    margin: 2rem auto;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.products ul {
+    display: flex;
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+}
